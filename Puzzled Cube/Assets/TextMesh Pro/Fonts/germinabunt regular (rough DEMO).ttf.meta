@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0674f95f844b54842bc5c4126e472094
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Germinabunt Regular Rough DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 62d7c6a41c35f8e498606c584ce208b0, type: 3}
+  - {fileID: 12800000, guid: d9f849d4ddf5c554ebdc1c1be9eb84e8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
